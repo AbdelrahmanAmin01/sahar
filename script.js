@@ -2,7 +2,7 @@
 // CHANGE THIS DATE TO YOUR REAL DATE
 // Example: "2025-06-14T20:00:00"
 // ===============================
-const startDate = new Date("2025-06-14T20:00:00");
+const startDate = new Date("2026-09-10T20:00:00");
 
 const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
